@@ -1,0 +1,587 @@
+{
+  "Buch_1": {
+    "Einheit_2": {
+      "Einführung": [
+        {
+          "*": "*das",
+          "Wort": "Kennenlernen o. PI.",
+          "Wortart": "",
+          "Chinesisch": "结识",
+          "Beispielsatz": "\"Kennenlernen\" ist das Thema in Einheit 2."
+        },
+        {
+          "*": "*",
+          "Wort": "ihr",
+          "Wortart": "Pron.",
+          "Chinesisch": "你们，她的，他们的",
+          "Beispielsatz": "Ich bin Anna. Und wie heiBt ihr denn?"
+        },
+        {
+          "*": "*",
+          "Wort": "arbeiten",
+          "Wortart": "",
+          "Chinesisch": "工作，学习，劳动",
+          "Beispielsatz": "Wo arbeitest du denn?"
+        },
+        {
+          "*": "*",
+          "Wort": "hier",
+          "Wortart": "Adv.",
+          "Chinesisch": "这里",
+          "Beispielsatz": "Was machst du hier?"
+        },
+        {
+          "*": "*",
+          "Wort": "in",
+          "Wortart": "Präp.",
+          "Chinesisch": "在……里面\n到……里面\n在……时候",
+          "Beispielsatz": "Ich arbeite hier in China."
+        },
+        {
+          "*": "*",
+          "Wort": "bitte",
+          "Wortart": "Adv.",
+          "Chinesisch": "请",
+          "Beispielsatz": "Wie bitte?"
+        },
+        {
+          "*": "*",
+          "Wort": "sprechen (spricht)",
+          "Wortart": "",
+          "Chinesisch": "说话，谈话",
+          "Beispielsatz": "Sprechen Sie Deutsch?"
+        },
+        {
+          "*": "*",
+          "Wort": "zu",
+          "Wortart": "Adv.",
+          "Chinesisch": "太，非常",
+          "Beispielsatz": "Der Lehrer spricht zu schnell."
+        },
+        {
+          "*": "*",
+          "Wort": "schnell",
+          "Wortart": "Adj.",
+          "Chinesisch": "快的，迅速的",
+          "Beispielsatz": "Sie geht schnell."
+        },
+        {
+          "*": "*",
+          "Wort": "langsam",
+          "Wortart": "Adj.",
+          "Chinesisch": "慢的，缓慢的",
+          "Beispielsatz": "Bitte sprechen Sie langsam."
+        }
+      ],
+      "Text": [
+        {
+          "*": "*(das)",
+          "Wort": "Deutsch",
+          "Wortart": "",
+          "Chinesisch": "德语",
+          "Beispielsatz": "Wir lernen Deutsch."
+        },
+        {
+          "*": "*",
+          "Wort": "Ihr",
+          "Wortart": "Pron.",
+          "Chinesisch": "您的",
+          "Beispielsatz": "Wie ist Ihr Name bitte?"
+        },
+        {
+          "*": "(das)",
+          "Wort": "England",
+          "Wortart": "",
+          "Chinesisch": "英国",
+          "Beispielsatz": "Mary Johnson kommt aus England."
+        },
+        {
+          "*": "*",
+          "Wort": "laut",
+          "Wortart": "Adj.",
+          "Chinesisch": "大声的",
+          "Beispielsatz": "Sprechen Sie bitte laut und langsam!"
+        },
+        {
+          "*": "*die",
+          "Wort": "Entschuldigung -en",
+          "Wortart": "",
+          "Chinesisch": "原谅",
+          "Beispielsatz": "Entschuldigung!"
+        },
+        {
+          "*": "*",
+          "Wort": "entschuldigen",
+          "Wortart": "",
+          "Chinesisch": "原谅",
+          "Beispielsatz": "Entschuldigen Sie bitte."
+        },
+        {
+          "*": "*",
+          "Wort": "buchstabieren +A",
+          "Wortart": "",
+          "Chinesisch": "拼出字母",
+          "Beispielsatz": "Wie buchstabiert man \"Wang\"?"
+        },
+        {
+          "*": "*",
+          "Wort": "man",
+          "Wortart": "Pron.",
+          "Chinesisch": "人们",
+          "Beispielsatz": "Wie buchstabiert man das Wort?"
+        },
+        {
+          "*": "*",
+          "Wort": "schön",
+          "Wortart": "Adj./ Adv.",
+          "Chinesisch": "行；好的；美丽的，美好的",
+          "Beispielsatz": "Die Kette ist schön."
+        },
+        {
+          "*": "*",
+          "Wort": "jetzt",
+          "Wortart": "Adv.",
+          "Chinesisch": "现在，目前",
+          "Beispielsatz": "Jetzt öffnen Sie bitte die Bücher auf Seite 4."
+        },
+        {
+          "*": "*",
+          "Wort": "öffnen +A",
+          "Wortart": "",
+          "Chinesisch": "打开",
+          "Beispielsatz": "Jetzt öffnen Sie bitte die Bücher auf Seite 4."
+        },
+        {
+          "*": "*",
+          "Wort": "auf",
+          "Wortart": "Präp.",
+          "Chinesisch": "到……上面，以……方式",
+          "Beispielsatz": "Der Text ist auf Seite 4."
+        },
+        {
+          "*": "*die",
+          "Wort": "Seite -n",
+          "Wortart": "",
+          "Chinesisch": "页，边",
+          "Beispielsatz": "Der Text ist auf Seite 4."
+        },
+        {
+          "*": "*",
+          "Wort": "lesen (+A)",
+          "Wortart": "",
+          "Chinesisch": "阅读，读，朗读",
+          "Beispielsatz": "Bitte lesen Sie."
+        },
+        {
+          "*": "*",
+          "Wort": "zuerst",
+          "Wortart": "Adv.",
+          "Chinesisch": "先，首先",
+          "Beispielsatz": "Zuerst liest die Lehrerin Text 1."
+        },
+        {
+          "*": "*der",
+          "Wort": "Text -e",
+          "Wortart": "",
+          "Chinesisch": "课文，文章， 文本",
+          "Beispielsatz": "Dann lesen wir Text 2."
+        },
+        {
+          "*": "*",
+          "Wort": "eins",
+          "Wortart": "Num.",
+          "Chinesisch": "一",
+          "Beispielsatz": "Einheit 1 ist Phonetik."
+        },
+        {
+          "*": "*",
+          "Wort": "leise",
+          "Wortart": "Adj.",
+          "Chinesisch": "轻声的",
+          "Beispielsatz": "Wang Hongliang liest zu leise."
+        },
+        {
+          "*": "*",
+          "Wort": "machen +A",
+          "Wortart": "",
+          "Chinesisch": "做，制作，干， 从事",
+          "Beispielsatz": "Karin macht alles."
+        },
+        {
+          "*": "*",
+          "Wort": "wir",
+          "Wortart": "Pron.",
+          "Chinesisch": "我们",
+          "Beispielsatz": "Wir sind aus China."
+        },
+        {
+          "*": "*die",
+          "Wort": "Übung -en",
+          "Wortart": "",
+          "Chinesisch": "练习",
+          "Beispielsatz": "Sie machen Übungen."
+        },
+        {
+          "*": "*",
+          "Wort": "fragen (+A)",
+          "Wortart": "",
+          "Chinesisch": "问，打听",
+          "Beispielsatz": "Der Lehrer fragt Wang Hongliang."
+        },
+        {
+          "*": "*",
+          "Wort": "antworten (+D)",
+          "Wortart": "",
+          "Chinesisch": "回答，答复， 回信",
+          "Beispielsatz": "Er antwortet schnell."
+        },
+        {
+          "*": "*",
+          "Wort": "schließen",
+          "Wortart": "",
+          "Chinesisch": "合，关，闭，锁",
+          "Beispielsatz": "Die Studenten schließen die Bücher."
+        },
+        {
+          "*": "*",
+          "Wort": "hören",
+          "Wortart": "",
+          "Chinesisch": "听,听到",
+          "Beispielsatz": "Wir hören zuerst Text 2."
+        },
+        {
+          "*": "*",
+          "Wort": "zwei",
+          "Wortart": "Num.",
+          "Chinesisch": "二",
+          "Beispielsatz": "Dann machen wir Übung 2."
+        },
+        {
+          "*": "*die",
+          "Wort": "Mensa...sen",
+          "Wortart": "",
+          "Chinesisch": "学生食堂",
+          "Beispielsatz": "Das ist die Mensa."
+        },
+        {
+          "*": "*der",
+          "Wort": "Platz -..e",
+          "Wortart": "",
+          "Chinesisch": "座位，地方，场所",
+          "Beispielsatz": "\"Ist der Platz hier frei?\"\n\"Ja, bitte.\""
+        },
+        {
+          "*": "*",
+          "Wort": "frei",
+          "Wortart": "Adj.",
+          "Chinesisch": "（座位）空着； 自由的，空闲的",
+          "Beispielsatz": "\"Ist der Platz hier frei?\"\n\"Ja, bitte.\""
+        },
+        {
+          "*": "*",
+          "Wort": "ja",
+          "Wortart": "Adv.",
+          "Chinesisch": "是",
+          "Beispielsatz": "Ja, ich komme aus China."
+        },
+        {
+          "*": "*(das)",
+          "Wort": "Japan",
+          "Wortart": "",
+          "Chinesisch": "日本",
+          "Beispielsatz": "Kommst du aus Japan?"
+        },
+        {
+          "*": "*",
+          "Wort": "nein",
+          "Wortart": "Adv.",
+          "Chinesisch": "不，不是",
+          "Beispielsatz": "Nein, ich komme aus China."
+        },
+        {
+          "*": "*",
+          "Wort": "studieren",
+          "Wortart": "",
+          "Chinesisch": "（在大学）学习， 研究",
+          "Beispielsatz": "Was studieren Sie?"
+        },
+        {
+          "*": "*",
+          "Wort": "noch",
+          "Wortart": "Adv.",
+          "Chinesisch": "还，此外还",
+          "Beispielsatz": "Wie heißt das noch mal auf Deutsch?"
+        },
+        {
+          "*": "*(die)",
+          "Wort": "Chemie o.Pl.",
+          "Wortart": "",
+          "Chinesisch": "化学",
+          "Beispielsatz": "Ich studiere Chemie."
+        },
+        {
+          "*": "*",
+          "Wort": "lernen",
+          "Wortart": "",
+          "Chinesisch": "学习，学",
+          "Beispielsatz": "Lernst du Deutsch?"
+        },
+        {
+          "*": "*(die)",
+          "Wort": "Informatik o. Pl.",
+          "Wortart": "",
+          "Chinesisch": "计算机科学与技术",
+          "Beispielsatz": "Wang Hongliang studiert Informatik."
+        },
+        {
+          "*": "*",
+          "Wort": "du",
+          "Wortart": "Pron.",
+          "Chinesisch": "你",
+          "Beispielsatz": "Was studierst du?"
+        },
+        {
+          "*": "*(die)",
+          "Wort": "Elektrotechnik o. Pl.",
+          "Wortart": "",
+          "Chinesisch": "电气工程，电 工学",
+          "Beispielsatz": "Ich studiere Elektrotechnik."
+        },
+        {
+          "*": "*",
+          "Wort": "wo",
+          "Wortart": "Adv.",
+          "Chinesisch": "哪里，何处",
+          "Beispielsatz": "Wo wohnt ihr?"
+        },
+        {
+          "*": "*",
+          "Wort": "wohnen",
+          "Wortart": "",
+          "Chinesisch": "居住",
+          "Beispielsatz": "Wir wohnen im Studentenwohnheim."
+        },
+        {
+          "*": "*das",
+          "Wort": "Studentenwohnheim -e",
+          "Wortart": "",
+          "Chinesisch": "学生宿舍",
+          "Beispielsatz": "Wohnst du auch im Studentenwohnheim?"
+        },
+        {
+          "*": "*",
+          "Wort": "drei",
+          "Wortart": "Num.",
+          "Chinesisch": "三",
+          "Beispielsatz": "Wir wohnen in Haus 3."
+        },
+        {
+          "*": "*",
+          "Wort": "übrigens",
+          "Wortart": "Adv.",
+          "Chinesisch": "此外，再说，顺带说",
+          "Beispielsatz": "Übrigens, mein Name ist Liu Ling."
+        },
+        {
+          "*": "*",
+          "Wort": "er",
+          "Wortart": "Pron.",
+          "Chinesisch": "他",
+          "Beispielsatz": "Er heißt Thomas."
+        },
+        {
+          "*": "*",
+          "Wort": "schreiben",
+          "Wortart": "",
+          "Chinesisch": "写，写作，写信",
+          "Beispielsatz": "Wie schreibt man das?"
+        }
+      ],
+      "Übungen": [
+        {
+          "*": "",
+          "Wort": "dick",
+          "Wortart": "Adj.",
+          "Chinesisch": "胖的，厚的",
+          "Beispielsatz": "Das Kind ist dick."
+        },
+        {
+          "*der": "*",
+          "Wort": "Student -en (die Studentin -nen)",
+          "Wortart": "",
+          "Chinesisch": "大学生",
+          "Beispielsatz": "Sind Sie Student"
+        },
+        {
+          "*": "*",
+          "Wort": "spielen",
+          "Wortart": "",
+          "Chinesisch": "玩，比赛",
+          "Beispielsatz": "Was spielen wir jetzt?"
+        },
+        {
+          "*": "*der",
+          "Wort": "FuBball =e",
+          "Wortart": "",
+          "Chinesisch": "足球",
+          "Beispielsatz": "Die Kinder spielen FuBball."
+        },
+        {
+          "*": "*",
+          "Wort": "groß",
+          "Wortart": "Adj.",
+          "Chinesisch": "大的；高的",
+          "Beispielsatz": "China ist groß."
+        },
+        {
+          "*": "*",
+          "Wort": "oder",
+          "Wortart": "Konj.",
+          "Chinesisch": "或者，还是（两者选一）",
+          "Beispielsatz": "Heißt du Brigitte oder Birgit?"
+        },
+        {
+          "*": "*",
+          "Wort": "alles",
+          "Wortart": "Pron.",
+          "Chinesisch": "所有，全部",
+          "Beispielsatz": "Ich mache alles."
+        },
+        {
+          "*": "*der",
+          "Wort": "Dialog -e",
+          "Wortart": "",
+          "Chinesisch": "对话",
+          "Beispielsatz": "Lesen Sie die Dialoge laut vor."
+        }
+      ],
+      "Intentionen": [
+        {
+          "*": "*der",
+          "Wort": "Satz =e",
+          "Wortart": "",
+          "Chinesisch": "句，句子",
+          "Beispielsatz": "Ich spreche vier Sätze Deutsch."
+        }
+      ],
+      "Hörverstehen": [
+        {
+          "*": "*die",
+          "Wort": "Musik",
+          "Wortart": "",
+          "Chinesisch": "音乐",
+          "Beispielsatz": "Die Musik ist schön, nicht?"
+        }
+      ],
+      "Leseverstehen": [
+        {
+          "*": "*der",
+          "Wort": "Brief -e",
+          "Wortart": "",
+          "Chinesisch": "信，书信，信礼，函件",
+          "Beispielsatz": "\"Was ist denn das?\"\\n\"Das sind Briefe aus Deutschland.\""
+        },
+        {
+          "*": "*der",
+          "Wort": "Freund -e (die Freundin -nen)",
+          "Wortart": "",
+          "Chinesisch": "朋友（女朋友）",
+          "Beispielsatz": "Thomas ist mein Freund."
+        },
+        {
+          "*": "*(das)",
+          "Wort": "Italien",
+          "Wortart": "",
+          "Chinesisch": "意大利（国名）",
+          "Beispielsatz": "Paolo kommt aus Italien."
+        },
+        {
+          "*": "*das",
+          "Wort": "Hobby -s",
+          "Wortart": "",
+          "Chinesisch": "业余爱好",
+          "Beispielsatz": "Meine Hobbys sind Lesen und Fußballspielen."
+        },
+        {
+          "*": "*",
+          "Wort": "gerade",
+          "Wortart": "Adj.",
+          "Chinesisch": "恰好，刚好",
+          "Beispielsatz": " Ich lerne gerade Deutsch."
+        },
+        {
+          "*": "*(die) ",
+          "Wort": "Wirtschaftswissenschaft -en",
+          "Wortart": "",
+          "Chinesisch": "经济学",
+          "Beispielsatz": "Ich studiere Wirtschaftswissenschaft."
+        },
+        {
+          "*": "*die",
+          "Wort": "Universität -en",
+          "Wortart": "",
+          "Chinesisch": "综合性大学",
+          "Beispielsatz": "Beate studiert an der Warschauer Universität."
+        },
+        {
+          "*": "(das)",
+          "Wort": "Polen",
+          "Wortart": "",
+          "Chinesisch": "波兰（国名）",
+          "Beispielsatz": "Sie wohnt in Polen."
+        },
+        {
+          "*": "*",
+          "Wort": "suchen",
+          "Wortart": "",
+          "Chinesisch": "寻找",
+          "Beispielsatz": "Sie sucht Brieffreunde aus aller Welt."
+        },
+        {
+          "*": "*",
+          "Wort": "gern",
+          "Wortart": "Adv.",
+          "Chinesisch": "乐意，喜欢",
+          "Beispielsatz": "Ich höre gern Musik."
+        },
+        {
+          "*": "#",
+          "Wort": "chatten",
+          "Wortart": "",
+          "Chinesisch": "聊天",
+          "Beispielsatz": "Chattest du gern?"
+        },
+        {
+          "*": "*(das)",
+          "Wort": "Englisch",
+          "Wortart": "",
+          "Chinesisch": "英文",
+          "Beispielsatz": "Wir sprechen gut Englisch."
+        },
+        {
+          "*": "*die",
+          "Wort": "Welt -en",
+          "Wortart": "",
+          "Chinesisch": "世界，世间",
+          "Beispielsatz": "Die Welt ist groß."
+        },
+        {
+          "*": "",
+          "Wort": "München",
+          "Wortart": "",
+          "Chinesisch": "慕尼黑（德国地名)",
+          "Beispielsatz": "Beate und Jutta kommen aus München."
+        },
+        {
+          "*": "*das",
+          "Wort": "Chinesisch",
+          "Wortart": "",
+          "Chinesisch": "中文",
+          "Beispielsatz": "Sie lernen gerade Chinesisch."
+        }
+      ]
+    }
+  },
+  "Buch_2": {},
+  "Buch_3": {}
+}
