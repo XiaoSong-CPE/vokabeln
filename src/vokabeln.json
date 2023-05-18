@@ -711,7 +711,199 @@
               "Beispielsatz": "Er geht langsam."
           }
       
-      ]
+      ],
+      "Text":[
+        {
+            "*": "*",
+            "Wort": "immer",
+            "Wortart": "",
+            "Chinesisch": "始终，经常，总是",
+            "Beispielsatz": "Ich habe immer am Vormittag Unterricht."
+        },
+        {
+            "*": "*",
+            "Wort": "haben (hat)",
+            "Wortart": "",
+            "Chinesisch": "有，得到",
+            "Beispielsatz": "Hast du am Nachmittag auch Unterricht?"
+        },
+        {
+            "*": "*die",
+            "Wort": "Pause -n",
+            "Wortart": "",
+            "Chinesisch": "休息，停顿",
+            "Beispielsatz": "Jetzt machen wir gerade Pause."
+        },
+        {
+            "*": "*",
+            "Wort": "täglich",
+            "Wortart": "Adv.",
+            "Chinesisch": "每天的",
+            "Beispielsatz": "Ich spreche täglich Deutsch."
+        },
+        {
+            "*": "*",
+            "Wort": "von",
+            "Wortart": "Präp.",
+            "Chinesisch": "（时间）从…… 起；（所属关系）的",
+            "Beispielsatz": "Von acht bis Viertel vor zwölf habe ich Unterricht."
+        },
+        {
+            "*": "*",
+            "Wort": "acht",
+            "Wortart": "Num.",
+            "Chinesisch": "八",
+            "Beispielsatz": "Um acht Uhr gehen wir zum Unterricht."
+        },
+        {
+            "*": "*das",
+            "Wort": "Viertel",
+            "Wortart": "",
+            "Chinesisch": "四分之一，一刻钟",
+            "Beispielsatz": "Es ist Viertel nach sechs."
+        },
+        {
+            "*": "*",
+            "Wort": "vor",
+            "Wortart": "Präp.",
+            "Chinesisch": "在……之前",
+            "Beispielsatz": "Ich stehe um Viertel vor sechs auf."
+        },
+        {
+            "*": "*",
+            "Wort": "zwölf",
+            "Wortart": "Num.",
+            "Chinesisch": "十二",
+            "Beispielsatz": "Um zwölf Uhr essen wir zu Mittag."
+        },
+        {
+            "*": "*",
+            "Wort": "um",
+            "Wortart": "Präp.",
+            "Chinesisch": "在……点钟",
+            "Beispielsatz": "Um acht Uhr haben wir Deutschunterricht."
+        },
+        {
+            "*": "*",
+            "Wort": "schon",
+            "Wortart": "Adv.",
+            "Chinesisch": "就，已经",
+            "Beispielsatz": "Es ist schon Nacht."
+        },
+        {
+            "*": "*",
+            "Wort": "so",
+            "Wortart": "Adv.",
+            "Chinesisch": "这样，如此",
+            "Beispielsatz": "Stehst du so früh auf?"
+        },
+        {
+            "*": "*",
+            "Wort": "früh",
+            "Wortart": "Adj./Adv.",
+            "Chinesisch": "早的；早上",
+            "Beispielsatz": "Es ist nicht mehr früh."
+        },
+        {
+            "*": "*",
+            "Wort": "wann",
+            "Wortart": "Adv.",
+            "Chinesisch": "何时",
+            "Beispielsatz": "Wann stehst du denn auf?"
+        },
+        {
+            "*": "*",
+            "Wort": "laufen (läuft)",
+            "Wortart": "",
+            "Chinesisch": "跑，跑步",
+            "Beispielsatz": "Ich laufe schnell."
+        },
+        {
+            "*": "*",
+            "Wort": "aktiv",
+            "Wortart": "Adj.",
+            "Chinesisch": "积极的，主动的",
+            "Beispielsatz": "Die Studenten sind im Unterricht aktiv."
+        },
+        {
+            "*": "*",
+            "Wort": "nicht",
+            "Wortart": "Adv.",
+            "Chinesisch": "不，没有",
+            "Beispielsatz": "Ich esse oft nicht zu Mittag."
+        },
+        {
+            "*": "*",
+            "Wort": "nur",
+            "Wortart": "Adv.",
+            "Chinesisch": "只，仅",
+            "Beispielsatz": "Die Lehrerin spricht im Unterricht nur Deutsch."
+        },
+        {
+            "*": "*",
+            "Wort": "bei",
+            "Wortart": "Präp.",
+            "Chinesisch": "在……时候，在……情况下",
+            "Beispielsatz": "Er ist nicht nur beim Sport aktiv."
+        },
+        {
+            "*": "*",
+            "Wort": "dein",
+            "Wortart": "Poss./Pron.",
+            "Chinesisch": "你的",
+            "Beispielsatz": "Dein Deutsch ist jetzt viel besser."
+        },
+        {
+            "*": "*",
+            "Wort": "sehr",
+            "Wortart": "Adv.",
+            "Chinesisch": "很，非常",
+            "Beispielsatz": "Ich lerne auch sehr viel."
+        },
+        {
+            "*": "*",
+            "Wort": "viel",
+            "Wortart": "Adv./Pron./Num.",
+            "Chinesisch": "许多，大量",
+            "Beispielsatz": "Thomas trinkt sehr viel Kaffee."
+        },
+        {
+            "*": "*",
+            "Wort": "verstehen",
+            "Wortart": "",
+            "Chinesisch": "理解，懂得",
+            "Beispielsatz": "Verstehen Sie Frau Beckmann?"
+        },
+        {
+            "*": "*",
+            "Wort": "wohin",
+            "Wortart": "Adv",
+            "Chinesisch": "向哪里，去何处",
+            "Beispielsatz": "Wohin fährst du jetzt?"
+        },
+        {
+            "*": "*",
+            "Wort": "aber",
+            "Wortart": "Adv./Konj",
+            "Chinesisch": "但是，可是",
+            "Beispielsatz": "Ich trinke viel Tee, aber sie trinkt viel Kaffee."
+        },
+        {
+            "*": "*",
+            "Wort": "erst",
+            "Wortart": "Adv.",
+            "Chinesisch": "刚刚，才",
+            "Beispielsatz": "Es ist erst sieben Uhr."
+        },
+        {
+            "*": "*",
+            "Wort": "halb",
+            "Wortart": "Adj.",
+            "Chinesisch": "一半（的)",
+            "Beispielsatz": "Ich frühstücke um halb acht."
+        }
+    ]
+      
     }
   },
   "Buch_2": {},
