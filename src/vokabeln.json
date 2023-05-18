@@ -580,6 +580,138 @@
           "Beispielsatz": "Sie lernen gerade Chinesisch."
         }
       ]
+    },
+    "Einheit_3": {
+      "Einführung":[
+        
+          {
+              "*": "*das",
+              "Wort": "Leben",
+              "Wortart": "",
+              "Chinesisch": "生活，生命",
+              "Beispielsatz": "Das Leben hier in Hangzhou ist schön."
+          },
+          {
+              "*": "*",
+              "Wort": "an",
+              "Wortart": "Präp.",
+              "Chinesisch": "在……时候,在/到……旁",
+              "Beispielsatz": "Studiert sie noch an der Universität?"
+          },
+          {
+              "*": "*der",
+              "Wort": "Vormittag -e",
+              "Wortart": "",
+              "Chinesisch": "上午",
+              "Beispielsatz": "Am Vormittag arbeitet man."
+          },
+          {
+              "*": "*der",
+              "Wort": "Mittag -e",
+              "Wortart": "",
+              "Chinesisch": "中午",
+              "Beispielsatz": "Es ist Mittag."
+          },
+          {
+              "*": "*der",
+              "Wort": "Nachmittag -e",
+              "Wortart": "",
+              "Chinesisch": "下午",
+              "Beispielsatz": "Am Nachmittag lernen die Kinder nicht."
+          },
+          {
+              "*": "*",
+              "Wort": "frühstücken",
+              "Wortart": "",
+              "Chinesisch": "吃早餐",
+              "Beispielsatz": "Die Studentin frühstückt gut."
+          },
+          {
+              "*": "*",
+              "Wort": "auf/stehen",
+              "Wortart": "",
+              "Chinesisch": "起床；起立；站起来",
+              "Beispielsatz": "Stehen Sie bitte auf!"
+          },
+          {
+              "*": "*",
+              "Wort": "zu",
+              "Wortart": "Präp.",
+              "Chinesisch": "在……时候",
+              "Beispielsatz": "Ich esse in der Mensa zu Mittag."
+          },
+          {
+              "*": "*",
+              "Wort": "essen (isst)",
+              "Wortart": "",
+              "Chinesisch": "吃",
+              "Beispielsatz": "Martin isst gern Eis."
+          },
+          {
+              "*": "*der",
+              "Wort": "Sport o.PL.",
+              "Wortart": "",
+              "Chinesisch": "体育运动",
+              "Beispielsatz": "Am Morgen treiben wir Sport."
+          },
+          {
+              "*": "*",
+              "Wort": "treiben +A",
+              "Wortart": "",
+              "Chinesisch": "从事，进行",
+              "Beispielsatz": "Treibst du gern Sport?"
+          },
+          {
+              "*": "*die",
+              "Wort": "Vorlesung -en",
+              "Wortart": "",
+              "Chinesisch": "（大）课，讲座",
+              "Beispielsatz": "Wo ist die Vorlesung?"
+          },
+          {
+              "*": "*",
+              "Wort": "besuchen",
+              "Wortart": "",
+              "Chinesisch": "访问；探望；上学；参观",
+              "Beispielsatz": "Wir besuchen am Vormittag Vorlesungen."
+          },
+          {
+              "*": "*",
+              "Wort": "nach",
+              "Wortart": "Präp.",
+              "Chinesisch": "（目标）向……；到……去（时间）；在……之后",
+              "Beispielsatz": ""
+          },
+          {
+              "*": "*",
+              "Wort": "fahren (fährt)",
+              "Wortart": "",
+              "Chinesisch": "搭,乘,坐(车）;行驶",
+              "Beispielsatz": "Ich fahre gern Rad."
+          },
+          {
+              "*": "*",
+              "Wort": "trinken",
+              "Wortart": "",
+              "Chinesisch": "喝，饮",
+              "Beispielsatz": "Trinken Sie Kaffee oder Tee?"
+          },
+          {
+              "*": "*das",
+              "Wort": "Bett -en",
+              "Wortart": "",
+              "Chinesisch": "床",
+              "Beispielsatz": "Das ist mein Bett."
+          },
+          {
+              "*": "*",
+              "Wort": "gehen",
+              "Wortart": "",
+              "Chinesisch": "步行，走，前往",
+              "Beispielsatz": "Er geht langsam."
+          }
+      
+      ]
     }
   },
   "Buch_2": {},
