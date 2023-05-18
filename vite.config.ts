@@ -8,6 +8,10 @@ import { NaiveUiResolver } from 'unplugin-vue-components/resolvers'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: 'https://cdn.jsdelivr.net/gh/XiaoSong-CPE/vokabeln@dist/',
+  build: {
+    manifest: true,
+  },
   plugins: [
     vue(),
     Components({
