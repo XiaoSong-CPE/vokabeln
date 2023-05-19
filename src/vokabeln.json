@@ -1117,56 +1117,56 @@
           "Wort": "hundert",
           "Wortart": "Num.",
           "Chinesisch": "百",
-          "Beispeilsatz": "Die Universität ist sechs hundert Jahre alt."
+          "Beispielsatz": "Die Universität ist sechs hundert Jahre alt."
         },
         {
           "*": "*",
           "Wort": "tausend",
           "Wortart": "Num.",
           "Chinesisch": "千",
-          "Beispeilsatz": "Zwei tausend Deutsche studieren in China."
+          "Beispielsatz": "Zwei tausend Deutsche studieren in China."
         },
         {
           "*": "*das",
           "Wort": "Auto -s",
           "Wortart": "",
           "Chinesisch": "小汽车",
-          "Beispeilsatz": "Das sind Autos aus Deutschland."
+          "Beispielsatz": "Das sind Autos aus Deutschland."
         },
         {
           "*": "*",
           "Wort": "endlich",
           "Wortart": "Adv.",
           "Chinesisch": "总算，终于",
-          "Beispeilsatz": "Endlich hast du mal Zeit für mich."
+          "Beispielsatz": "Endlich hast du mal Zeit für mich."
         },
         {
           "*": "*die",
           "Wort": "E-Mail -s",
           "Wortart": "",
           "Chinesisch": "电子邮件",
-          "Beispeilsatz": "Ich lese und schreibe täglich E-Mails."
+          "Beispielsatz": "Ich lese und schreibe täglich E-Mails."
         },
         {
           "*": "*",
           "Wort": "interessant",
           "Wortart": "Adj.",
           "Chinesisch": "有趣的，令人感兴趣的",
-          "Beispeilsatz": "Das ist aber interessant."
+          "Beispielsatz": "Das ist aber interessant."
         },
         {
           "*": "*",
           "Wort": "oft",
           "Wortart": "Adv.",
           "Chinesisch": "经常；常常",
-          "Beispeilsatz": "Schreibt ihr auch oft Mails?"
+          "Beispielsatz": "Schreibt ihr auch oft Mails?"
         },
         {
           "*": "*",
           "Wort": "sehen (sieht)",
           "Wortart": "",
           "Chinesisch": "看，看见",
-          "Beispeilsatz": "Was siehst du denn gerade?"
+          "Beispielsatz": "Was siehst du denn gerade?"
         }
       ],
       "Intentionen": [
@@ -1175,14 +1175,14 @@
           "Wort": "Zug =e",
           "Wortart": "",
           "Chinesisch": "火车",
-          "Beispeilsatz": "Der Zug fährt sehr schnell."
+          "Beispielsatz": "Der Zug fährt sehr schnell."
         },
         {
           "*": "*",
           "Wort": "ab/fahren (fährt ab)",
           "Wortart": "",
           "Chinesisch": "开出",
-          "Beispeilsatz": "Wann fährt der Zug von Berlin ab?"
+          "Beispielsatz": "Wann fährt der Zug von Berlin ab?"
         }
       ],
       "Hörverstehen": [
@@ -1191,35 +1191,35 @@
           "Wort": "Zahl-en",
           "Wortart": "",
           "Chinesisch": "数字",
-          "Beispeilsatz": "Heute lernen wir Zahlen, eins, zwei, drei ..."
+          "Beispielsatz": "Heute lernen wir Zahlen, eins, zwei, drei ..."
         },
         {
           "*": "*das",
           "Wort": "Jahr -e",
           "Wortart": "",
           "Chinesisch": "年，（年）岁",
-          "Beispeilsatz": "Wie viele Tage hat ein Jahr?"
+          "Beispielsatz": "Wie viele Tage hat ein Jahr?"
         },
         {
           "*": "*",
           "Wort": "alt",
           "Wortart": "",
           "Chinesisch": "老的，旧的",
-          "Beispeilsatz": "Ich bin 20 Jahre alt."
+          "Beispielsatz": "Ich bin 20 Jahre alt."
         },
         {
           "*": "*der",
           "Wort": "Dienstag -e",
           "Wortart": "",
           "Chinesisch": "星期二",
-          "Beispeilsatz": "Morgen ist Dienstag."
+          "Beispielsatz": "Morgen ist Dienstag."
         },
         {
           "*": "*der",
           "Wort": "Mittwoch -e",
           "Wortart": "",
           "Chinesisch": "星期三",
-          "Beispeilsatz": "Aber am Mittwoch habe ich Zeit."
+          "Beispielsatz": "Aber am Mittwoch habe ich Zeit."
         }
       ],
       "Leseverstehen": [
@@ -1228,56 +1228,56 @@
           "Wort": "Million-en",
           "Wortart": "",
           "Chinesisch": "百万",
-          "Beispeilsatz": "Tausend mal tausend ist eine Million."
+          "Beispielsatz": "Tausend mal tausend ist eine Million."
         },
         {
           "*": "*die",
           "Wort": "Hochschule -n",
           "Wortart": "",
           "Chinesisch": "高等学校，大学",
-          "Beispeilsatz": "Wie viele Hochschulen gibt es jetzt in China?"
+          "Beispielsatz": "Wie viele Hochschulen gibt es jetzt in China?"
         },
         {
           "*": "*die",
           "Wort": "Kunst=e",
           "Wortart": "",
           "Chinesisch": "艺术；技巧",
-          "Beispeilsatz": "Musik ist (eine) Kunst."
+          "Beispielsatz": "Musik ist (eine) Kunst."
         },
         {
           "*": "*die",
           "Wort": "Fachhochschule-n",
           "Wortart": "",
           "Chinesisch": "应用技术大学",
-          "Beispeilsatz": "Wie heißt Fachhochschule auf Chinesisch?"
+          "Beispielsatz": "Wie heißt Fachhochschule auf Chinesisch?"
         },
         {
           "*": "*",
           "Wort": "insgesamt",
           "Wortart": "",
           "Chinesisch": "总共，合计",
-          "Beispeilsatz": "Unsere Universität hat insgesamt 30.000 Studenten."
+          "Beispielsatz": "Unsere Universität hat insgesamt 30.000 Studenten."
         },
         {
           "*": "*der",
           "Wort": "Ausländer - (die Ausländerin -nen)",
           "Wortart": "Adv.",
           "Chinesisch": "外国人（女外国人）",
-          "Beispeilsatz": "Da Shan, ein Ausländer, spricht sehr gut Chinesisch."
+          "Beispielsatz": "Da Shan, ein Ausländer, spricht sehr gut Chinesisch."
         },
         {
           "*": "*",
           "Wort": " etwa",
           "Wortart": "",
           "Chinesisch": "Adv. 大约，将近",
-          "Beispeilsatz": " Heute stehe ich etwa um halb sechs auf."
+          "Beispielsatz": " Heute stehe ich etwa um halb sechs auf."
         },
         {
           "*": "*das",
           "Wort": "Ausland o. PI.",
           "Wortart": "",
           "Chinesisch": "外国",
-          "Beispeilsatz": "Mein Freund studiert im Ausland."
+          "Beispielsatz": "Mein Freund studiert im Ausland."
         }
       ]
     }

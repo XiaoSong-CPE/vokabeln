@@ -77,7 +77,9 @@ onMounted(() => {
 });
 
 // watch mask
-watch(mask, setStyle());
+watch(mask, () => {
+  setStyle();
+});
 
 // define Buecher
 const Buecher = ref([
