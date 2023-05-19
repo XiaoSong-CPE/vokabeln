@@ -582,328 +582,704 @@
       ]
     },
     "Einheit_3": {
-      "Einführung":[
-        
-          {
-              "*": "*das",
-              "Wort": "Leben",
-              "Wortart": "",
-              "Chinesisch": "生活，生命",
-              "Beispielsatz": "Das Leben hier in Hangzhou ist schön."
-          },
-          {
-              "*": "*",
-              "Wort": "an",
-              "Wortart": "Präp.",
-              "Chinesisch": "在……时候,在/到……旁",
-              "Beispielsatz": "Studiert sie noch an der Universität?"
-          },
-          {
-              "*": "*der",
-              "Wort": "Vormittag -e",
-              "Wortart": "",
-              "Chinesisch": "上午",
-              "Beispielsatz": "Am Vormittag arbeitet man."
-          },
-          {
-              "*": "*der",
-              "Wort": "Mittag -e",
-              "Wortart": "",
-              "Chinesisch": "中午",
-              "Beispielsatz": "Es ist Mittag."
-          },
-          {
-              "*": "*der",
-              "Wort": "Nachmittag -e",
-              "Wortart": "",
-              "Chinesisch": "下午",
-              "Beispielsatz": "Am Nachmittag lernen die Kinder nicht."
-          },
-          {
-              "*": "*",
-              "Wort": "frühstücken",
-              "Wortart": "",
-              "Chinesisch": "吃早餐",
-              "Beispielsatz": "Die Studentin frühstückt gut."
-          },
-          {
-              "*": "*",
-              "Wort": "auf/stehen",
-              "Wortart": "",
-              "Chinesisch": "起床；起立；站起来",
-              "Beispielsatz": "Stehen Sie bitte auf!"
-          },
-          {
-              "*": "*",
-              "Wort": "zu",
-              "Wortart": "Präp.",
-              "Chinesisch": "在……时候",
-              "Beispielsatz": "Ich esse in der Mensa zu Mittag."
-          },
-          {
-              "*": "*",
-              "Wort": "essen (isst)",
-              "Wortart": "",
-              "Chinesisch": "吃",
-              "Beispielsatz": "Martin isst gern Eis."
-          },
-          {
-              "*": "*der",
-              "Wort": "Sport o.PL.",
-              "Wortart": "",
-              "Chinesisch": "体育运动",
-              "Beispielsatz": "Am Morgen treiben wir Sport."
-          },
-          {
-              "*": "*",
-              "Wort": "treiben +A",
-              "Wortart": "",
-              "Chinesisch": "从事，进行",
-              "Beispielsatz": "Treibst du gern Sport?"
-          },
-          {
-              "*": "*die",
-              "Wort": "Vorlesung -en",
-              "Wortart": "",
-              "Chinesisch": "（大）课，讲座",
-              "Beispielsatz": "Wo ist die Vorlesung?"
-          },
-          {
-              "*": "*",
-              "Wort": "besuchen",
-              "Wortart": "",
-              "Chinesisch": "访问；探望；上学；参观",
-              "Beispielsatz": "Wir besuchen am Vormittag Vorlesungen."
-          },
-          {
-              "*": "*",
-              "Wort": "nach",
-              "Wortart": "Präp.",
-              "Chinesisch": "（目标）向……；到……去（时间）；在……之后",
-              "Beispielsatz": ""
-          },
-          {
-              "*": "*",
-              "Wort": "fahren (fährt)",
-              "Wortart": "",
-              "Chinesisch": "搭,乘,坐(车）;行驶",
-              "Beispielsatz": "Ich fahre gern Rad."
-          },
-          {
-              "*": "*",
-              "Wort": "trinken",
-              "Wortart": "",
-              "Chinesisch": "喝，饮",
-              "Beispielsatz": "Trinken Sie Kaffee oder Tee?"
-          },
-          {
-              "*": "*das",
-              "Wort": "Bett -en",
-              "Wortart": "",
-              "Chinesisch": "床",
-              "Beispielsatz": "Das ist mein Bett."
-          },
-          {
-              "*": "*",
-              "Wort": "gehen",
-              "Wortart": "",
-              "Chinesisch": "步行，走，前往",
-              "Beispielsatz": "Er geht langsam."
-          }
-      
-      ],
-      "Text":[
+      "Einführung": [
         {
-            "*": "*",
-            "Wort": "immer",
-            "Wortart": "",
-            "Chinesisch": "始终，经常，总是",
-            "Beispielsatz": "Ich habe immer am Vormittag Unterricht."
+          "*": "*das",
+          "Wort": "Leben",
+          "Wortart": "",
+          "Chinesisch": "生活，生命",
+          "Beispielsatz": "Das Leben hier in Hangzhou ist schön."
         },
         {
-            "*": "*",
-            "Wort": "haben (hat)",
-            "Wortart": "",
-            "Chinesisch": "有，得到",
-            "Beispielsatz": "Hast du am Nachmittag auch Unterricht?"
+          "*": "*",
+          "Wort": "an",
+          "Wortart": "Präp.",
+          "Chinesisch": "在……时候,在/到……旁",
+          "Beispielsatz": "Studiert sie noch an der Universität?"
         },
         {
-            "*": "*die",
-            "Wort": "Pause -n",
-            "Wortart": "",
-            "Chinesisch": "休息，停顿",
-            "Beispielsatz": "Jetzt machen wir gerade Pause."
+          "*": "*der",
+          "Wort": "Vormittag -e",
+          "Wortart": "",
+          "Chinesisch": "上午",
+          "Beispielsatz": "Am Vormittag arbeitet man."
         },
         {
-            "*": "*",
-            "Wort": "täglich",
-            "Wortart": "Adv.",
-            "Chinesisch": "每天的",
-            "Beispielsatz": "Ich spreche täglich Deutsch."
+          "*": "*der",
+          "Wort": "Mittag -e",
+          "Wortart": "",
+          "Chinesisch": "中午",
+          "Beispielsatz": "Es ist Mittag."
         },
         {
-            "*": "*",
-            "Wort": "von",
-            "Wortart": "Präp.",
-            "Chinesisch": "（时间）从…… 起；（所属关系）的",
-            "Beispielsatz": "Von acht bis Viertel vor zwölf habe ich Unterricht."
+          "*": "*der",
+          "Wort": "Nachmittag -e",
+          "Wortart": "",
+          "Chinesisch": "下午",
+          "Beispielsatz": "Am Nachmittag lernen die Kinder nicht."
         },
         {
-            "*": "*",
-            "Wort": "acht",
-            "Wortart": "Num.",
-            "Chinesisch": "八",
-            "Beispielsatz": "Um acht Uhr gehen wir zum Unterricht."
+          "*": "*",
+          "Wort": "frühstücken",
+          "Wortart": "",
+          "Chinesisch": "吃早餐",
+          "Beispielsatz": "Die Studentin frühstückt gut."
         },
         {
-            "*": "*das",
-            "Wort": "Viertel",
-            "Wortart": "",
-            "Chinesisch": "四分之一，一刻钟",
-            "Beispielsatz": "Es ist Viertel nach sechs."
+          "*": "*",
+          "Wort": "auf/stehen",
+          "Wortart": "",
+          "Chinesisch": "起床；起立；站起来",
+          "Beispielsatz": "Stehen Sie bitte auf!"
         },
         {
-            "*": "*",
-            "Wort": "vor",
-            "Wortart": "Präp.",
-            "Chinesisch": "在……之前",
-            "Beispielsatz": "Ich stehe um Viertel vor sechs auf."
+          "*": "*",
+          "Wort": "zu",
+          "Wortart": "Präp.",
+          "Chinesisch": "在……时候",
+          "Beispielsatz": "Ich esse in der Mensa zu Mittag."
         },
         {
-            "*": "*",
-            "Wort": "zwölf",
-            "Wortart": "Num.",
-            "Chinesisch": "十二",
-            "Beispielsatz": "Um zwölf Uhr essen wir zu Mittag."
+          "*": "*",
+          "Wort": "essen (isst)",
+          "Wortart": "",
+          "Chinesisch": "吃",
+          "Beispielsatz": "Martin isst gern Eis."
         },
         {
-            "*": "*",
-            "Wort": "um",
-            "Wortart": "Präp.",
-            "Chinesisch": "在……点钟",
-            "Beispielsatz": "Um acht Uhr haben wir Deutschunterricht."
+          "*": "*der",
+          "Wort": "Sport o.PL.",
+          "Wortart": "",
+          "Chinesisch": "体育运动",
+          "Beispielsatz": "Am Morgen treiben wir Sport."
         },
         {
-            "*": "*",
-            "Wort": "schon",
-            "Wortart": "Adv.",
-            "Chinesisch": "就，已经",
-            "Beispielsatz": "Es ist schon Nacht."
+          "*": "*",
+          "Wort": "treiben +A",
+          "Wortart": "",
+          "Chinesisch": "从事，进行",
+          "Beispielsatz": "Treibst du gern Sport?"
         },
         {
-            "*": "*",
-            "Wort": "so",
-            "Wortart": "Adv.",
-            "Chinesisch": "这样，如此",
-            "Beispielsatz": "Stehst du so früh auf?"
+          "*": "*die",
+          "Wort": "Vorlesung -en",
+          "Wortart": "",
+          "Chinesisch": "（大）课，讲座",
+          "Beispielsatz": "Wo ist die Vorlesung?"
         },
         {
-            "*": "*",
-            "Wort": "früh",
-            "Wortart": "Adj./Adv.",
-            "Chinesisch": "早的；早上",
-            "Beispielsatz": "Es ist nicht mehr früh."
+          "*": "*",
+          "Wort": "besuchen",
+          "Wortart": "",
+          "Chinesisch": "访问；探望；上学；参观",
+          "Beispielsatz": "Wir besuchen am Vormittag Vorlesungen."
         },
         {
-            "*": "*",
-            "Wort": "wann",
-            "Wortart": "Adv.",
-            "Chinesisch": "何时",
-            "Beispielsatz": "Wann stehst du denn auf?"
+          "*": "*",
+          "Wort": "nach",
+          "Wortart": "Präp.",
+          "Chinesisch": "（目标）向……；到……去（时间）；在……之后",
+          "Beispielsatz": ""
         },
         {
-            "*": "*",
-            "Wort": "laufen (läuft)",
-            "Wortart": "",
-            "Chinesisch": "跑，跑步",
-            "Beispielsatz": "Ich laufe schnell."
+          "*": "*",
+          "Wort": "fahren (fährt)",
+          "Wortart": "",
+          "Chinesisch": "搭,乘,坐(车）;行驶",
+          "Beispielsatz": "Ich fahre gern Rad."
         },
         {
-            "*": "*",
-            "Wort": "aktiv",
-            "Wortart": "Adj.",
-            "Chinesisch": "积极的，主动的",
-            "Beispielsatz": "Die Studenten sind im Unterricht aktiv."
+          "*": "*",
+          "Wort": "trinken",
+          "Wortart": "",
+          "Chinesisch": "喝，饮",
+          "Beispielsatz": "Trinken Sie Kaffee oder Tee?"
         },
         {
-            "*": "*",
-            "Wort": "nicht",
-            "Wortart": "Adv.",
-            "Chinesisch": "不，没有",
-            "Beispielsatz": "Ich esse oft nicht zu Mittag."
+          "*": "*das",
+          "Wort": "Bett -en",
+          "Wortart": "",
+          "Chinesisch": "床",
+          "Beispielsatz": "Das ist mein Bett."
         },
         {
-            "*": "*",
-            "Wort": "nur",
-            "Wortart": "Adv.",
-            "Chinesisch": "只，仅",
-            "Beispielsatz": "Die Lehrerin spricht im Unterricht nur Deutsch."
-        },
-        {
-            "*": "*",
-            "Wort": "bei",
-            "Wortart": "Präp.",
-            "Chinesisch": "在……时候，在……情况下",
-            "Beispielsatz": "Er ist nicht nur beim Sport aktiv."
-        },
-        {
-            "*": "*",
-            "Wort": "dein",
-            "Wortart": "Poss./Pron.",
-            "Chinesisch": "你的",
-            "Beispielsatz": "Dein Deutsch ist jetzt viel besser."
-        },
-        {
-            "*": "*",
-            "Wort": "sehr",
-            "Wortart": "Adv.",
-            "Chinesisch": "很，非常",
-            "Beispielsatz": "Ich lerne auch sehr viel."
-        },
-        {
-            "*": "*",
-            "Wort": "viel",
-            "Wortart": "Adv./Pron./Num.",
-            "Chinesisch": "许多，大量",
-            "Beispielsatz": "Thomas trinkt sehr viel Kaffee."
-        },
-        {
-            "*": "*",
-            "Wort": "verstehen",
-            "Wortart": "",
-            "Chinesisch": "理解，懂得",
-            "Beispielsatz": "Verstehen Sie Frau Beckmann?"
-        },
-        {
-            "*": "*",
-            "Wort": "wohin",
-            "Wortart": "Adv",
-            "Chinesisch": "向哪里，去何处",
-            "Beispielsatz": "Wohin fährst du jetzt?"
-        },
-        {
-            "*": "*",
-            "Wort": "aber",
-            "Wortart": "Adv./Konj",
-            "Chinesisch": "但是，可是",
-            "Beispielsatz": "Ich trinke viel Tee, aber sie trinkt viel Kaffee."
-        },
-        {
-            "*": "*",
-            "Wort": "erst",
-            "Wortart": "Adv.",
-            "Chinesisch": "刚刚，才",
-            "Beispielsatz": "Es ist erst sieben Uhr."
-        },
-        {
-            "*": "*",
-            "Wort": "halb",
-            "Wortart": "Adj.",
-            "Chinesisch": "一半（的)",
-            "Beispielsatz": "Ich frühstücke um halb acht."
+          "*": "*",
+          "Wort": "gehen",
+          "Wortart": "",
+          "Chinesisch": "步行，走，前往",
+          "Beispielsatz": "Er geht langsam."
         }
-    ]
-      
+      ],
+      "Text": [
+        {
+          "*": "*",
+          "Wort": "immer",
+          "Wortart": "",
+          "Chinesisch": "始终，经常，总是",
+          "Beispielsatz": "Ich habe immer am Vormittag Unterricht."
+        },
+        {
+          "*": "*",
+          "Wort": "haben (hat)",
+          "Wortart": "",
+          "Chinesisch": "有，得到",
+          "Beispielsatz": "Hast du am Nachmittag auch Unterricht?"
+        },
+        {
+          "*": "*die",
+          "Wort": "Pause -n",
+          "Wortart": "",
+          "Chinesisch": "休息，停顿",
+          "Beispielsatz": "Jetzt machen wir gerade Pause."
+        },
+        {
+          "*": "*",
+          "Wort": "täglich",
+          "Wortart": "Adv.",
+          "Chinesisch": "每天的",
+          "Beispielsatz": "Ich spreche täglich Deutsch."
+        },
+        {
+          "*": "*",
+          "Wort": "von",
+          "Wortart": "Präp.",
+          "Chinesisch": "（时间）从…… 起；（所属关系）的",
+          "Beispielsatz": "Von acht bis Viertel vor zwölf habe ich Unterricht."
+        },
+        {
+          "*": "*",
+          "Wort": "acht",
+          "Wortart": "Num.",
+          "Chinesisch": "八",
+          "Beispielsatz": "Um acht Uhr gehen wir zum Unterricht."
+        },
+        {
+          "*": "*das",
+          "Wort": "Viertel",
+          "Wortart": "",
+          "Chinesisch": "四分之一，一刻钟",
+          "Beispielsatz": "Es ist Viertel nach sechs."
+        },
+        {
+          "*": "*",
+          "Wort": "vor",
+          "Wortart": "Präp.",
+          "Chinesisch": "在……之前",
+          "Beispielsatz": "Ich stehe um Viertel vor sechs auf."
+        },
+        {
+          "*": "*",
+          "Wort": "zwölf",
+          "Wortart": "Num.",
+          "Chinesisch": "十二",
+          "Beispielsatz": "Um zwölf Uhr essen wir zu Mittag."
+        },
+        {
+          "*": "*",
+          "Wort": "um",
+          "Wortart": "Präp.",
+          "Chinesisch": "在……点钟",
+          "Beispielsatz": "Um acht Uhr haben wir Deutschunterricht."
+        },
+        {
+          "*": "*",
+          "Wort": "schon",
+          "Wortart": "Adv.",
+          "Chinesisch": "就，已经",
+          "Beispielsatz": "Es ist schon Nacht."
+        },
+        {
+          "*": "*",
+          "Wort": "so",
+          "Wortart": "Adv.",
+          "Chinesisch": "这样，如此",
+          "Beispielsatz": "Stehst du so früh auf?"
+        },
+        {
+          "*": "*",
+          "Wort": "früh",
+          "Wortart": "Adj./Adv.",
+          "Chinesisch": "早的；早上",
+          "Beispielsatz": "Es ist nicht mehr früh."
+        },
+        {
+          "*": "*",
+          "Wort": "wann",
+          "Wortart": "Adv.",
+          "Chinesisch": "何时",
+          "Beispielsatz": "Wann stehst du denn auf?"
+        },
+        {
+          "*": "*",
+          "Wort": "laufen (läuft)",
+          "Wortart": "",
+          "Chinesisch": "跑，跑步",
+          "Beispielsatz": "Ich laufe schnell."
+        },
+        {
+          "*": "*",
+          "Wort": "aktiv",
+          "Wortart": "Adj.",
+          "Chinesisch": "积极的，主动的",
+          "Beispielsatz": "Die Studenten sind im Unterricht aktiv."
+        },
+        {
+          "*": "*",
+          "Wort": "nicht",
+          "Wortart": "Adv.",
+          "Chinesisch": "不，没有",
+          "Beispielsatz": "Ich esse oft nicht zu Mittag."
+        },
+        {
+          "*": "*",
+          "Wort": "nur",
+          "Wortart": "Adv.",
+          "Chinesisch": "只，仅",
+          "Beispielsatz": "Die Lehrerin spricht im Unterricht nur Deutsch."
+        },
+        {
+          "*": "*",
+          "Wort": "bei",
+          "Wortart": "Präp.",
+          "Chinesisch": "在……时候，在……情况下",
+          "Beispielsatz": "Er ist nicht nur beim Sport aktiv."
+        },
+        {
+          "*": "*",
+          "Wort": "dein",
+          "Wortart": "Poss./Pron.",
+          "Chinesisch": "你的",
+          "Beispielsatz": "Dein Deutsch ist jetzt viel besser."
+        },
+        {
+          "*": "*",
+          "Wort": "sehr",
+          "Wortart": "Adv.",
+          "Chinesisch": "很，非常",
+          "Beispielsatz": "Ich lerne auch sehr viel."
+        },
+        {
+          "*": "*",
+          "Wort": "viel",
+          "Wortart": "Adv./Pron./Num.",
+          "Chinesisch": "许多，大量",
+          "Beispielsatz": "Thomas trinkt sehr viel Kaffee."
+        },
+        {
+          "*": "*",
+          "Wort": "verstehen",
+          "Wortart": "",
+          "Chinesisch": "理解，懂得",
+          "Beispielsatz": "Verstehen Sie Frau Beckmann?"
+        },
+        {
+          "*": "*",
+          "Wort": "wohin",
+          "Wortart": "Adv",
+          "Chinesisch": "向哪里，去何处",
+          "Beispielsatz": "Wohin fährst du jetzt?"
+        },
+        {
+          "*": "*",
+          "Wort": "aber",
+          "Wortart": "Adv./Konj",
+          "Chinesisch": "但是，可是",
+          "Beispielsatz": "Ich trinke viel Tee, aber sie trinkt viel Kaffee."
+        },
+        {
+          "*": "*",
+          "Wort": "erst",
+          "Wortart": "Adv.",
+          "Chinesisch": "刚刚，才",
+          "Beispielsatz": "Es ist erst sieben Uhr."
+        },
+        {
+          "*": "*",
+          "Wort": "halb",
+          "Wortart": "Adj.",
+          "Chinesisch": "一半（的)",
+          "Beispielsatz": "Ich frühstücke um halb acht."
+        },
+        {
+          "*": "*",
+          "Wort": "wie viel/wieviel",
+          "Wortart": "Adv.",
+          "Chinesisch": "多少",
+          "Beispielsatz": "Um wie viel Uhr isst du dann zu Mittag?"
+        },
+        {
+          "*": "*die",
+          "Wort": "Uhr -en",
+          "Wortart": "",
+          "Chinesisch": "钟点；表，钟",
+          "Beispielsatz": "Ich habe zwei Uhren."
+        },
+        {
+          "*": "*",
+          "Wort": "meistens",
+          "Wortart": "Adv.",
+          "Chinesisch": "通常，一般，大多数情况下",
+          "Beispielsatz": "Ich frühstücke meistens sehr gut."
+        },
+        {
+          "*": "*",
+          "Wort": "mal",
+          "Wortart": "Part.",
+          "Chinesisch": "（表示请求语气）啊",
+          "Beispielsatz": "Sag mal, hast du taglich Unterricht?"
+        },
+        {
+          "*": "",
+          "Wort": "mal",
+          "Wortart": "Adv.",
+          "Chinesisch": "吧；一次",
+          "Beispielsatz": "Lesen Sie mal den Text laut!"
+        },
+        {
+          "*": "",
+          "Wort": "mal",
+          "Wortart": "Konj.",
+          "Chinesisch": "（曾经或以后）；乘",
+          "Beispielsatz": "Drei mal drei ist neun."
+        },
+        {
+          "*": "*",
+          "Wort": "heute",
+          "Wortart": "Adv.",
+          "Chinesisch": "今天，当今",
+          "Beispielsatz": "Hast du heute Abend Zeit?"
+        },
+        {
+          "*": "*die",
+          "Wort": "Zeit-en",
+          "Wortart": "",
+          "Chinesisch": "时间，时刻",
+          "Beispielsatz": "Wann hast du Zeit?"
+        },
+        {
+          "*": "*",
+          "Wort": "geben(gibt)",
+          "Wortart": "",
+          "Chinesisch": "给予",
+          "Beispielsatz": "Thomas gibt heute Abend eine Party."
+        },
+        {
+          "*": "*die",
+          "Wort": "Party-s",
+          "Wortart": "",
+          "Chinesisch": "聚会",
+          "Beispielsatz": "Wo gibt er die Party?"
+        },
+        {
+          "*": "*",
+          "Wort": "kennen",
+          "Wortart": "",
+          "Chinesisch": "认识，了解",
+          "Beispielsatz": "Kennst du ihn nicht?"
+        },
+        {
+          "*": "*",
+          "Wort": "neu",
+          "Wortart": "Adj.",
+          "Chinesisch": "新来的，新的",
+          "Beispielsatz": "Er ist neu hier."
+        },
+        {
+          "*": "*",
+          "Wort": "leider",
+          "Wortart": "Adv.",
+          "Chinesisch": "可惜，遗憾",
+          "Beispielsatz": "Ich habe leider keine Zeit."
+        },
+        {
+          "*": "*",
+          "Wort": "kein (kein, keine; keine)",
+          "Wortart": "Pron.",
+          "Chinesisch": "没有，无",
+          "Beispielsatz": "Wir haben heute Nachmittag keinen Unterricht."
+        },
+        {
+          "*": "*der",
+          "Wort": "Donnerstag -e",
+          "Wortart": "",
+          "Chinesisch": "星期四",
+          "Beispielsatz": "Schreiben wir am Donnerstag eine Prüfung?"
+        },
+        {
+          "*": "*die",
+          "Wort": "Prüfung-en",
+          "Wortart": "",
+          "Chinesisch": "考试，检验",
+          "Beispielsatz": "Wann haben wir eine Prüfung?"
+        },
+        {
+          "*": "*der",
+          "Wort": "Freitag -e",
+          "Wortart": "",
+          "Chinesisch": "星期五",
+          "Beispielsatz": "Am Freitag haben wir eine Prüfung."
+        },
+        {
+          "*": "*",
+          "Wort": "zusammen",
+          "Wortart": "Adv.",
+          "Chinesisch": "一起，共计",
+          "Beispielsatz": "Machen wir die Hausaufgaben zusammen?"
+        },
+        {
+          "*": "*die",
+          "Wort": "Hausaufgabe -n",
+          "Wortart": "",
+          "Chinesisch": "家庭作业",
+          "Beispielsatz": "Ich mache zuerst meine Hausaufgaben."
+        },
+        {
+          "*": "*",
+          "Wort": "nie",
+          "Wortart": "Adv.",
+          "Chinesisch": "从未，永不",
+          "Beispielsatz": "Du hast nie Zeit für deine Freunde."
+        },
+        {
+          "*": "*",
+          "Wort": "für +A",
+          "Wortart": "Präp.",
+          "Chinesisch": "为了，对于",
+          "Beispielsatz": "Du hast auch nie Zeit für dein Leben."
+        },
+        {
+          "*": "*",
+          "Wort": "schlafen (schläft)",
+          "Wortart": "",
+          "Chinesisch": "睡觉",
+          "Beispielsatz": "Schläfst du eigentlich noch?"
+        },
+        {
+          "*": "*",
+          "Wort": "eigentlich",
+          "Wortart": "Part.",
+          "Chinesisch": "究竟",
+          "Beispielsatz": "Wie spät ist es eigentlich?"
+        },
+        {
+          "*": "*",
+          "Wort": "spät",
+          "Wortart": "Adj.",
+          "Chinesisch": "迟，晚",
+          "Beispielsatz": "Es ist schon spät."
+        },
+        {
+          "*": "*",
+          "Wort": "beginnen",
+          "Wortart": "",
+          "Chinesisch": "开始",
+          "Beispielsatz": "Der Unterricht beginnt."
+        }
+      ],
+      "Übungen": [
+        {
+          "*": "*",
+          "Wort": "warum",
+          "Wortart": "Adv.",
+          "Chinesisch": "为什么",
+          "Beispielsatz": "Warum lernen Sie Deutsch?"
+        },
+        {
+          "*": "*der",
+          "Wort": "Montag-e",
+          "Wortart": "",
+          "Chinesisch": "星期一",
+          "Beispielsatz": "Was machst du am Montag?"
+        },
+        {
+          "*": "*die",
+          "Wort": "Telefonnummer-n",
+          "Wortart": "",
+          "Chinesisch": "电话号码",
+          "Beispielsatz": "Wie ist deine Telefonnummer?"
+        },
+        {
+          "*": "*die",
+          "Wort": "Stunde-n",
+          "Wortart": "",
+          "Chinesisch": "小时，课时",
+          "Beispielsatz": "Wie viele Stunden schlafst du taglich?"
+        },
+        {
+          "*": "*der",
+          "Wort": "Tofu o. Pl.",
+          "Wortart": "",
+          "Chinesisch": "豆腐",
+          "Beispielsatz": "Kennen Sie Tofu?"
+        },
+        {
+          "*": "*",
+          "Wort": "hundert",
+          "Wortart": "Num.",
+          "Chinesisch": "百",
+          "Beispeilsatz": "Die Universität ist sechs hundert Jahre alt."
+        },
+        {
+          "*": "*",
+          "Wort": "tausend",
+          "Wortart": "Num.",
+          "Chinesisch": "千",
+          "Beispeilsatz": "Zwei tausend Deutsche studieren in China."
+        },
+        {
+          "*": "*das",
+          "Wort": "Auto -s",
+          "Wortart": "",
+          "Chinesisch": "小汽车",
+          "Beispeilsatz": "Das sind Autos aus Deutschland."
+        },
+        {
+          "*": "*",
+          "Wort": "endlich",
+          "Wortart": "Adv.",
+          "Chinesisch": "总算，终于",
+          "Beispeilsatz": "Endlich hast du mal Zeit für mich."
+        },
+        {
+          "*": "*die",
+          "Wort": "E-Mail -s",
+          "Wortart": "",
+          "Chinesisch": "电子邮件",
+          "Beispeilsatz": "Ich lese und schreibe täglich E-Mails."
+        },
+        {
+          "*": "*",
+          "Wort": "interessant",
+          "Wortart": "Adj.",
+          "Chinesisch": "有趣的，令人感兴趣的",
+          "Beispeilsatz": "Das ist aber interessant."
+        },
+        {
+          "*": "*",
+          "Wort": "oft",
+          "Wortart": "Adv.",
+          "Chinesisch": "经常；常常",
+          "Beispeilsatz": "Schreibt ihr auch oft Mails?"
+        },
+        {
+          "*": "*",
+          "Wort": "sehen (sieht)",
+          "Wortart": "",
+          "Chinesisch": "看，看见",
+          "Beispeilsatz": "Was siehst du denn gerade?"
+        }
+      ],
+      "Intentionen": [
+        {
+          "*": "*der",
+          "Wort": "Zug =e",
+          "Wortart": "",
+          "Chinesisch": "火车",
+          "Beispeilsatz": "Der Zug fährt sehr schnell."
+        },
+        {
+          "*": "*",
+          "Wort": "ab/fahren (fährt ab)",
+          "Wortart": "",
+          "Chinesisch": "开出",
+          "Beispeilsatz": "Wann fährt der Zug von Berlin ab?"
+        }
+      ],
+      "Hörverstehen": [
+        {
+          "*": "*die",
+          "Wort": "Zahl-en",
+          "Wortart": "",
+          "Chinesisch": "数字",
+          "Beispeilsatz": "Heute lernen wir Zahlen, eins, zwei, drei ..."
+        },
+        {
+          "*": "*das",
+          "Wort": "Jahr -e",
+          "Wortart": "",
+          "Chinesisch": "年，（年）岁",
+          "Beispeilsatz": "Wie viele Tage hat ein Jahr?"
+        },
+        {
+          "*": "*",
+          "Wort": "alt",
+          "Wortart": "",
+          "Chinesisch": "老的，旧的",
+          "Beispeilsatz": "Ich bin 20 Jahre alt."
+        },
+        {
+          "*": "*der",
+          "Wort": "Dienstag -e",
+          "Wortart": "",
+          "Chinesisch": "星期二",
+          "Beispeilsatz": "Morgen ist Dienstag."
+        },
+        {
+          "*": "*der",
+          "Wort": "Mittwoch -e",
+          "Wortart": "",
+          "Chinesisch": "星期三",
+          "Beispeilsatz": "Aber am Mittwoch habe ich Zeit."
+        }
+      ],
+      "Leseverstehen": [
+        {
+          "*": "*die",
+          "Wort": "Million-en",
+          "Wortart": "",
+          "Chinesisch": "百万",
+          "Beispeilsatz": "Tausend mal tausend ist eine Million."
+        },
+        {
+          "*": "*die",
+          "Wort": "Hochschule -n",
+          "Wortart": "",
+          "Chinesisch": "高等学校，大学",
+          "Beispeilsatz": "Wie viele Hochschulen gibt es jetzt in China?"
+        },
+        {
+          "*": "*die",
+          "Wort": "Kunst=e",
+          "Wortart": "",
+          "Chinesisch": "艺术；技巧",
+          "Beispeilsatz": "Musik ist (eine) Kunst."
+        },
+        {
+          "*": "*die",
+          "Wort": "Fachhochschule-n",
+          "Wortart": "",
+          "Chinesisch": "应用技术大学",
+          "Beispeilsatz": "Wie heißt Fachhochschule auf Chinesisch?"
+        },
+        {
+          "*": "*",
+          "Wort": "insgesamt",
+          "Wortart": "",
+          "Chinesisch": "总共，合计",
+          "Beispeilsatz": "Unsere Universität hat insgesamt 30.000 Studenten."
+        },
+        {
+          "*": "*der",
+          "Wort": "Ausländer - (die Ausländerin -nen)",
+          "Wortart": "Adv.",
+          "Chinesisch": "外国人（女外国人）",
+          "Beispeilsatz": "Da Shan, ein Ausländer, spricht sehr gut Chinesisch."
+        },
+        {
+          "*": "*",
+          "Wort": " etwa",
+          "Wortart": "",
+          "Chinesisch": "Adv. 大约，将近",
+          "Beispeilsatz": " Heute stehe ich etwa um halb sechs auf."
+        },
+        {
+          "*": "*das",
+          "Wort": "Ausland o. PI.",
+          "Wortart": "",
+          "Chinesisch": "外国",
+          "Beispeilsatz": "Mein Freund studiert im Ausland."
+        }
+      ]
     }
   },
   "Buch_2": {},
